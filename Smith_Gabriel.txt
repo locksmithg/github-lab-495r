@@ -1,3 +1,4 @@
 Name: Gabriel Smith
 Major: Applied Statistics
 Emphasis: Getting this bread
+Hobby: Trading card games
